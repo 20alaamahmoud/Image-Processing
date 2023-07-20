@@ -1,4 +1,3 @@
-%Ahmed Mansour kamal 2021064 G1
 function out_img = brightness(img,offset)
 out_img = img + offset;
 if(out_img > 255)
