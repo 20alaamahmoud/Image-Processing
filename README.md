@@ -1,5 +1,5 @@
 # Image-Processing
-Image Processing filters, using MATLAB
+Image Processing filters with GUI, using MATLAB
 - Geometry Operatios : (Direct Mapping Resize : 0-Order, 1-Order), (Reverse Mapping : 0-Order, 1-Order).
 - Pixel Operations : Convert to Grayscale [Single color channel, Average gray, Luminance, Desaturation, Decomposing],
                      Draw Histogram, Brightness, DarkBright, Contrast, Power-Law Transformations (Gamma correction), Histogram Equalization,
