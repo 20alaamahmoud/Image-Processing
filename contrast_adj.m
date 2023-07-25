@@ -1,4 +1,3 @@
-%Ahmed Mansour kamal 2021064 G1
 function out_img=contrast_adj(img,new_min,new_max)
 [row, col, ch]=size(img);
 img=double(img);
