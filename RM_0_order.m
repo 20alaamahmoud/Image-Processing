@@ -1,4 +1,4 @@
-function RM_0_order(in,fact_r,fact_c)
+function out = RM_0_order(in,fact_r,fact_c)
 [r,c,ch]=size(in);
 new_r=r*fact_r;
 new_c=c*fact_c;
